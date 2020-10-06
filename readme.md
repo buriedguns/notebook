@@ -47,6 +47,9 @@ virtualenv venv
 * Install all required packages:
 
 ```pip install -r requirements.txt```
+* Run app:
+
+```python app.py```
 
 ## Run tests
 * Activate the same virtual environment in another terminal:
